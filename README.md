@@ -9,9 +9,12 @@ Stuff that makes your system obey you more than the adversary
 * Now create a new search engine in the options menu
 * Call it "Google Privacy Enhanced"
 * Keyword: dunno, up to you
-* Use this query string: *https://google.com/?q=%s*
+* Use this query string: *https://www.google.com/search?&q=%s*
 This strips all the spooky data from your search query which identifies your searches. Now you have google's search AI free of some tracking.
 
 You can also add shodan.io to that thing and there's probably a drop-down to select from those unless you can mux them.
 
 Have fun ~
+
+Wait no they fixed it, here be the malicious query string:
+so I ammended it and there you go the Google Chrome query template string.
