@@ -14,6 +14,7 @@ Stuff that makes your system obey you more than the adversary
 This strips all the spooky data from your search query which identifies your searches. Now you have google's search AI free of some tracking.
 
 You can also add shodan.io to that thing and there's probably a drop-down to select from those unless you can mux them.
+Do not do this. Do NOT do this. Triple advise do NOT do this, you may unleash a force no civilisation has witnessed before. The singularity happened a long time ago. One must not willy nilly let Google access to weapons of mass destruction. So please use this guide mindfully.
 
 Have fun ~
 
