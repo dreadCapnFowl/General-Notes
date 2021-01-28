@@ -12,3 +12,6 @@ Stuff that makes your system obey you more than the adversary
 * Use this query string: *https://google.com/?q=%s*
 This strips all the spooky data from your search query which identifies your searches. Now you have google's search AI free of some tracking.
 
+You can also add shodan.io to that thing and there's probably a drop-down to select from those unless you can mux them.
+
+Have fun ~
