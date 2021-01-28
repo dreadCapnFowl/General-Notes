@@ -1,4 +1,5 @@
-# General-Notes
+# Anarchist's Tutorial v0.1
+
 Stuff that makes your system obey you more than the adversary
 
 ### How to make Google not track you when you use Google Chrome's search engine.
